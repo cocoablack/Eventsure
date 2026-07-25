@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+html{
+    scroll-behavior: smooth;
+}
+
+
+.login-image{
+    background-image: url(../src/assets/login-image.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.imag1{
+    background-image: url(./assets/images/image2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imag2{
+    background-image: url(./assets/images/image3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imag3{
+    background-image: url(./assets/images/image4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imag4{
+    background-image: url(./assets/images/image5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imag5{
+    background-image: url(./assets/images/image6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imag6{
+    background-image: url(./assets/images/image7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.imag7{
+    background-image: url(./assets/images/image8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.legalcenter p{
+
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.personaldata p{
+
+    margin-bottom: 10px;
+
+}
+
+.vendordata p{
+    margin-bottom: 10px;
+
+}
+
+.links li{
+    margin-top: 20px;
+}
+
+.datasharing p{
+
+    margin-bottom: 5px;
+}
+
+.footerlinks li{
+
+    color: #94A1AC;
+    margin-top: 20px;
+}
+
+
+

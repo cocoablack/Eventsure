@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.active{
+    font-weight: bold;
+}
+
+.label {
+  @apply text-xs font-bold uppercase tracking-[0.18em] text-slate-400;
+}
